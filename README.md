@@ -1,4 +1,6 @@
 # TP Collaboration Git
-# Modifier la meme ligne :
+
+# Modifier la ligne :
 # "Bienvenue dans le projet
-# de l'etudiant B."
+# de l'etudiant AB."
+
